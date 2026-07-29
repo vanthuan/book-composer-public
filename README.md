@@ -4,6 +4,12 @@ Generates illustrated children's books from a short topic prompt, using a LangGr
 multi-agent pipeline, and lets you download the result as a PDF, a comic-style PDF,
 or a Kindle-ready EPUB.
 
+<img src="backend/book_illustrations/lastkid/e861e5c8-8b7e-11f1-b66d-9d72bd858b8ccover.png" alt="Sample generated cover: Skyward Heroes - Flight of the Golden Sandals" width="360">
+
+*A cover generated from the prompt "The Last Kid in Mythology Camp" — see
+[`backend/README.md`](backend/README.md#regenerate-a-pdf-from-book_output) for the full
+sample book.*
+
 ## How it works
 
 A LangGraph pipeline (`backend/src/graph/`) runs a fixed sequence of steps:
