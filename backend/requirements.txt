@@ -1,0 +1,15 @@
+langgraph
+langchain-core
+langchain-google-genai
+langchain-openai
+langchain-community
+wikipedia
+google-genai
+openai
+python-dotenv
+reportlab
+pillow
+pymupdf
+deepagents
+fastapi
+uvicorn[standard]
