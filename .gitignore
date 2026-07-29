@@ -3,3 +3,10 @@
 __pycache__
 backend/book_illustrations/*
 backend/book_output/*
+
+# keep the "lastkid" sample referenced in backend/README.md
+!backend/book_output/lastkid.json
+!backend/book_output/lastkid.pdf
+!backend/book_output/lastkid_comic.pdf
+!backend/book_output/lastkid.text
+!backend/book_illustrations/lastkid

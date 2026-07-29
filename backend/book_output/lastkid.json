@@ -1,0 +1,64 @@
+[
+  [
+    "Wings of Camp Olympus",
+    "book_illustrations/lastkid/e861e5c8-8b7e-11f1-b66d-9d72bd858b8ccover.png"
+  ],
+  {
+    "page_number": 1,
+    "topic": "Leo sits alone on a wooden bench outside the main cabin of Camp Mount Olympus, clutching his cardboard shield as the sun begins to set on the empty campground.",
+    "text": "The summer sun dipped below the pine trees, casting long shadows across the deserted grounds of Camp Mount Olympus. Leo sat alone on a weathered wooden bench outside the main cabin, tightly clutching his hand-painted cardboard shield. He was the very last camper left, waiting quietly for his parents to arrive.",
+    "conversation": [
+      {
+        "character_name": "Mr_Harrison",
+        "speech": "Hey there, Leo. Your parents just called; they're stuck in traffic but should be here in about twenty minutes."
+      },
+      {
+        "speech": "That's okay, Mr. Harrison. Me and my shield can guard the camp until they get here.",
+        "character_name": "Leo"
+      },
+      {
+        "character_name": "Mr_Harrison",
+        "speech": "I appreciate the extra security, champion. You've been a great demigod this week."
+      }
+    ],
+    "image_path": [
+      "book_illustrations/lastkid/f6db0f8a-8b7e-11f1-b66d-9d72bd858b8cpage_01.png"
+    ],
+    "character_reference": {
+      "Mr_Harrison": "A tall, athletic man in his late 20s, warm olive skin, short wavy dark brown hair, wearing a forest green polo shirt and beige cargo shorts, glowing golden sandals with small fluttering white wings, and wearing a golden laurel wreath headband.",
+      "Leo": "A boy, about 9 years old, small build, light tan skin, messy curly black hair, wearing an orange t-shirt with a white Pegasus logo and khaki shorts, blue sneakers with orange laces, holding a circular hand-painted cardboard shield."
+    },
+    "emphasis": [
+      "Camp Mount Olympus",
+      "hand-painted cardboard shield",
+      "very last camper left"
+    ]
+  },
+  {
+    "page_number": 2,
+    "topic": "Mr. Harrison surprises Leo by revealing a pair of glowing, magical golden winged sandals and taking Leo on a soaring ride above the pine trees.",
+    "text": "Mr. Harrison smiled and tapped his heels, transforming his plain shoes into glowing golden sandals with fluttering white wings. Before Leo could even gasp, Mr. Harrison took his hand and leaped high into the air, soaring far above the pointed green pine trees. Leo held his cardboard shield tight, his eyes wide with wonder as the wind rushed past them.",
+    "conversation": [
+      {
+        "speech": "Hold on tight, Leo! Hermes lent me these winged sandals just for special occasions like today.",
+        "character_name": "Mr_Harrison"
+      },
+      {
+        "character_name": "Leo",
+        "speech": "Whoa, we are actually flying! This is the best camp ever!"
+      }
+    ],
+    "image_path": [
+      "book_illustrations/lastkid/06962ffe-8b7f-11f1-b66d-9d72bd858b8cpage_flight.png"
+    ],
+    "character_reference": {
+      "Mr_Harrison": "A tall, athletic man in his late 20s, warm olive skin, short wavy dark brown hair, wearing a forest green polo shirt and beige cargo shorts, glowing golden sandals with small fluttering white wings, and wearing a golden laurel wreath headband.",
+      "Leo": "A boy, about 9 years old, small build, light tan skin, messy curly black hair, wearing an orange t-shirt with a white Pegasus logo and khaki shorts, blue sneakers with orange laces, holding a circular hand-painted cardboard shield."
+    },
+    "emphasis": [
+      "glowing golden sandals",
+      "leaped high into the air",
+      "eyes wide with wonder"
+    ]
+  }
+]
